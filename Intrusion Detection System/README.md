@@ -25,7 +25,7 @@ This project implements a **Network Intrusion Detection System (NIDS)** across t
 
 The system uses **IPS Signature 2004** (ICMP Echo Request) to detect potential ping-based intrusions and alert administrators in real time via the SYSLOG server.
 
-> ⚠️ This is an IDS (detection only), not an IPS — it alerts on suspicious traffic but does not block it.
+> This is an IDS (detection only), not an IPS — it alerts on suspicious traffic but does not block it.
 
 ---
 
